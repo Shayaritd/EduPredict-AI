@@ -36,3 +36,8 @@ logs/
 *.egg-info/ 
 ml_project.egg-info/ 
 mlproject.egg-info/ 
+artifacts/ 
+notebook/ 
+logs/ 
+*.log 
+*.egg-info/ 
