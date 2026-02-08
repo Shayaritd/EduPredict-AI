@@ -1,15 +1,11 @@
-# Auto detect text files 
 * text=auto 
- 
-# Text files 
 *.py text 
 *.html text 
 *.css text 
 *.js text 
 *.csv text 
-*.ipynb text 
- 
-# Binary files 
+*.tsv text 
+*.json text 
+*.ipynb binary 
 *.pkl binary 
 *.model binary 
-*.h5 binary 
