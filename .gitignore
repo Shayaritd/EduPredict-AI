@@ -41,3 +41,4 @@ notebook/
 logs/ 
 *.log 
 *.egg-info/ 
+.ebextensions/ 
