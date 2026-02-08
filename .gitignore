@@ -42,3 +42,4 @@ logs/
 *.log 
 *.egg-info/ 
 .ebextensions/ 
+.ebextensions/ 
